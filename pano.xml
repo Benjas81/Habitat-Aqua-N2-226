@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17873" start="node1" appversion="6.1.2">
+  <panorama id="node1">
+    <input width="1500" height="1500" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1500" height="1500" preload="0" predecode="0"/>
+      <level width="750" height="750" preload="0" predecode="0"/>
+      <level width="375" height="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start projection="4" pan="0" fov="76.67" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="13/03/2025 01:14 p.m." longitude="" author="" tags="Agua N2 226|iNTERIOR" latitude="" nodeid="node1" info="" description="" comment="" title="Cocina" copyright="" customnodeid="" source="">
+      <mapcoords x="0.582275" y_floorplan_percent="36.3333" y="-0.598755" x_floorplan_percent="35.3333" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="Sala" description="" pan="-354.88" title="Sala" target="" skinid="ht_node" tilt="-10.22" url="{node5}"/>
+      <hotspot id="Jacuzzi" description="" pan="-322.24" title="Terraza Jacuzzi" target="" skinid="ht_node" tilt="-6.55" url="{node7}"/>
+      <hotspot id="rec ppal" description="" pan="-9.83" title="Recamara Ppal" target="" skinid="ht_node" tilt="-10.81" url="{node6}"/>
+      <hotspot id="baño 2" description="" pan="-67.84" title="Baño 2" target="" skinid="ht_node" tilt="-22.66" url="{node3}"/>
+      <hotspot id="rec 02" description="" pan="-151.51" title="Recamara Flex" target="" skinid="ht_node" tilt="-20.67" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" enabled="1" softedge="0" zoomspeed="2" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" invertwheel="0" rubberband="0" lockedkeyboard="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1250" height="1250" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1250" height="1250" preload="0" predecode="0"/>
+      <level width="625" height="625" preload="0" predecode="0"/>
+      <level width="312" height="312" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start projection="4" pan="-131.75" fov="76.67" tilt="-23.05"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="13/03/2025 01:14 p.m." longitude="" author="" tags="Agua N2 226|iNTERIOR" latitude="" nodeid="node2" info="" description="" comment="" title="Recamara Flex" copyright="" customnodeid="" source="">
+      <mapcoords x="0.304871" y_floorplan_percent="19.8333" y="-0.326843" x_floorplan_percent="18.5" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="BAÑO2" description="" pan="-339.78" title="Baño 2" target="" skinid="ht_node" tilt="-27.68" url="{node3}"/>
+      <hotspot id="cocina" description="" pan="-284.46" title="Cocina" target="" skinid="ht_node" tilt="-31.03" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" enabled="1" softedge="0" zoomspeed="2" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" invertwheel="0" rubberband="0" lockedkeyboard="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1500" height="1500" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1500" height="1500" preload="0" predecode="0"/>
+      <level width="750" height="750" preload="0" predecode="0"/>
+      <level width="375" height="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start projection="4" pan="-36.1" fov="83.65" tilt="-7.36"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="13/03/2025 01:14 p.m." longitude="" author="" tags="Agua N2 226|iNTERIOR" latitude="" nodeid="node3" info="" description="" comment="" title="Baño 2" copyright="" customnodeid="" source="">
+      <mapcoords x="0.310364" y_floorplan_percent="36.1667" y="-0.596008" x_floorplan_percent="18.8333" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="cocina" description="" pan="-292.88" title="Cocina" target="" skinid="ht_node" tilt="-30.87" url="{node1}"/>
+      <hotspot id="rec 02" description="" pan="-182.26" title="Recamara Flex" target="" skinid="ht_node" tilt="-32.84" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" enabled="1" softedge="0" zoomspeed="2" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" invertwheel="0" rubberband="0" lockedkeyboard="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1500" height="1500" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1500" height="1500" preload="0" predecode="0"/>
+      <level width="750" height="750" preload="0" predecode="0"/>
+      <level width="375" height="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start projection="4" pan="-161.83" fov="83.65" tilt="-16.03"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="13/03/2025 01:14 p.m." longitude="" author="" tags="Agua N2 226|iNTERIOR" latitude="" nodeid="node4" info="" description="" comment="" title="Baño Recamara Ppal" copyright="" customnodeid="" source="">
+      <mapcoords x="0.315857" y_floorplan_percent="50" y="-0.823975" x_floorplan_percent="19.1667" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="rec ppal" description="" pan="-354.56" title="Recamara Ppal" target="" skinid="ht_node" tilt="-27.9" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" enabled="1" softedge="0" zoomspeed="2" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" invertwheel="0" rubberband="0" lockedkeyboard="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1500" height="1500" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1500" height="1500" preload="0" predecode="0"/>
+      <level width="750" height="750" preload="0" predecode="0"/>
+      <level width="375" height="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start projection="4" pan="82.17" fov="76.67" tilt="-2.29"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="13/03/2025 01:14 p.m." longitude="" author="" tags="Agua N2 226|iNTERIOR" latitude="" nodeid="node5" info="" description="" comment="" title="Sala" copyright="" customnodeid="" source="">
+      <mapcoords x="0.585022" y_floorplan_percent="64.5" y="-1.06293" x_floorplan_percent="35.5" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="jacuzzi" description="" pan="-292.78" title="Terraza Jacuzzi" target="" skinid="ht_node" tilt="-10.01" url="{node7}"/>
+      <hotspot id="Asador" description="" pan="-249.7" title="Terraza Asador" target="" skinid="ht_node" tilt="-9.86" url="{node8}"/>
+      <hotspot id="rec ppal" description="" pan="-113.6" title="Recamara Ppal" target="" skinid="ht_node" tilt="-29.68" url="{node6}"/>
+      <hotspot id="cocina" description="" pan="-188.93" title="Cocina" target="" skinid="ht_node" tilt="-13.07" url="{node1}"/>
+      <hotspot id="baño 2" description="" pan="-169.14" title="Baño 2" target="" skinid="ht_node" tilt="-11.2" url="{node3}"/>
+      <hotspot id="rec 02" description="" pan="-173.84" title="Recamara Flex" target="" skinid="ht_node" tilt="-5.45" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" enabled="1" softedge="0" zoomspeed="2" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" invertwheel="0" rubberband="0" lockedkeyboard="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1500" height="1500" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1500" height="1500" preload="0" predecode="0"/>
+      <level width="750" height="750" preload="0" predecode="0"/>
+      <level width="375" height="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180" fovmode="0">
+      <start projection="4" pan="-77.74" fov="70" tilt="-9.3"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="13/03/2025 01:14 p.m." longitude="" author="" tags="Agua N2 226|iNTERIOR" latitude="" nodeid="node6" info="" description="" comment="" title="Recamara Ppal" copyright="" customnodeid="" source="">
+      <mapcoords x="0.32959" y_floorplan_percent="68.5" y="-1.12885" x_floorplan_percent="20" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="baño ppal" description="" pan="-195.3" title="Baño Recamara Ppal" target="" skinid="ht_node" tilt="-23.07" url="{node4}"/>
+      <hotspot id="Sala" description="" pan="-221.4" title="Sala" target="" skinid="ht_node" tilt="-25.35" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" enabled="1" softedge="0" zoomspeed="2" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" invertwheel="0" rubberband="0" lockedkeyboard="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1500" height="1500" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1500" height="1500" preload="0" predecode="0"/>
+      <level width="750" height="750" preload="0" predecode="0"/>
+      <level width="375" height="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-90.6" fov="76.67" tilt="-17.36"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="13/03/2025 01:14 p.m." longitude="" author="" tags="Agua N2 226|iNTERIOR" latitude="" nodeid="node7" info="" description="" comment="" title="Terraza Jacuzzi" copyright="" customnodeid="" source="">
+      <mapcoords x="1.03271" y_floorplan_percent="71" y="-1.17004" x_floorplan_percent="62.6667" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="asador" description="" pan="-358.54" title="Terraza Asador" target="" skinid="ht_node" tilt="-13.75" url="{node8}"/>
+      <hotspot id="cocina" description="" pan="-308.82" title="Cocina" target="" skinid="ht_node" tilt="-10.77" url="{node1}"/>
+      <hotspot id="Sala" description="" pan="-269.56" title="Sala" target="" skinid="ht_node" tilt="-17.21" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" enabled="1" softedge="0" zoomspeed="2" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" invertwheel="0" rubberband="0" lockedkeyboard="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1500" height="1500" leveltilesize="510" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="1500" height="1500" preload="0" predecode="0"/>
+      <level width="750" height="750" preload="0" predecode="0"/>
+      <level width="375" height="375" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="55.19" fov="76.67" tilt="-2.67"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata datetime="13/03/2025 01:14 p.m." longitude="" author="" tags="Agua N2 226|iNTERIOR" latitude="" nodeid="node8" info="" description="" comment="" title="Terraza Asador" copyright="" customnodeid="" source="">
+      <mapcoords x="1.17004" y_floorplan_percent="36.5" y="-0.601501" x_floorplan_percent="71" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" height="20" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" border="1" borderradius="1" backgroundalpha="1" enabled="1" textalpha="1" background="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot id="Jacuzzi" description="" pan="-191.37" title="Terraza Jacuzzi" target="" skinid="ht_node" tilt="-16.18" url="{node7}"/>
+      <hotspot id="Sala" description="" pan="-219.89" title="Sala" target="" skinid="ht_node" tilt="-7.08" url="{node5}"/>
+      <hotspot id="cocina" description="" pan="-235.5" title="Cocina" target="" skinid="ht_node" tilt="-7.93" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" enabled="1" softedge="0" zoomspeed="2" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control sensitivity="8" simulatemass="1" dblclickfullscreen="0" contextprojections="0" hideabout="0" invertwheel="0" rubberband="0" lockedkeyboard="0" invertcontrol="1" lockedmouse="0" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" longitude="" author="" tags="" latitude="" nodeid="master" info="" description="" comment="" title="" copyright="" customnodeid="" source=""/>
+  </masternode>
+  <map width="600" height="600" id="FloorPlan01" transparent="1" type="file" tileformat="png" floorplannorth="0" title="" bgcolor="rgba(255, 255, 255, 0)" zoomlevels="3"/>
+</tour>
